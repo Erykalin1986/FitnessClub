@@ -5,4 +5,4 @@
 ```
 Ссылка на канал: https://www.youtube.com/c/codaza-channel
 
-<img src="https://github.com/Erykalin1986/Calculator/raw/master/Calculator/images/app.jpg" alt="App" height="518">
+<img src="https://github.com/Erykalin1986/Calculator/raw/master/FitnessClub/Console.png" alt="Console" height="518">
